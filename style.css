@@ -1,0 +1,54 @@
+body {
+  margin-bottom: 0;
+  margin-top: 0;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0px 0px 5px black;
+  color: white;
+  background-color: hsl(0, 0%, 12%);
+  padding-bottom: 20px;
+  padding-top: 30px;
+  width: 300px;
+  font-family: Inter;
+}
+.all {
+  background-color: Grey;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-radius: 8px;
+}
+img {
+  width: 70px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+.nom {
+  color: hsl(0, 0%, 100%);
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.location {
+  color: hsl(75, 94%, 57%);
+  font-size: 11px;
+  margin-top: 0px;
+  font-weight: 400;
+}
+.job {
+  font-size: 10px;
+  color: hsl(0, 0%, 100%);
+}
+.btn {
+  align-items: center;
+  background-color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 100%);
+  font-size: 11px;
+  font-weight: 600;
+  width: 250px;
+  height: 40px;
+  border-radius: 8px;
+  text-align: center;
+}
+button {
+  margin-bottom: 8px;
+}
